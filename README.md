@@ -1,16 +1,50 @@
-### Hi there 👋
+# Hi there 👋, I am Dhaval Solanki! 🙏
 
-<!--
-**dhaval-android/dhaval-android** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=pranaypatel512&color=brightgreen&style=flat)
 
-Here are some ideas to get you started:
+ <p align="center">
+    <img height="200px" width="200px" src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/pranay_photo.svg" >
+  <br>  <br>
+  <b><i>Try it out, improve it, practice more and have fun! ✌️ </i></b> 
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📃 About me
+
+* 💼 Software Engineer - Android.
+
+* 👨🏻‍💻 Open-source enthusiast. 
+
+* ☕ Tea lover, 
+
+* Tech savvy and self motivated person.
+
+### What I am doing
+
+* ✒️ I write stuff at [Medium](https://medium.com/@pranaypatel).
+
+* 🙌 I mainly do work on Android, Kotlin, Flutter, Firebase, BLE and custom hardware apps. Public Speaker 🗣️
+
+* 👨‍🍳 Farming, Cooking, Travelling, Investing
+
+
+### Social
+
+ 
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-gray?style=for-the-badge&logo=gmail)](mailto:iampranaypatel@gmail.com)
+[![Twitter](https://img.shields.io/badge/-twitter-gray?style=for-the-badge&logo=twitter)](https://twitter.com/pranaypatel_)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranaypatel512/)
+[![Medium](https://img.shields.io/badge/-medium-gray?style=for-the-badge&logo=medium)](https://medium.com/@pranaypatel)
+
+<center>
+<a href="https://stackexchange.com/users/3529602"><img src="https://stackexchange.com/users/flair/3529602.png" width="208" height="58" alt="profile for pRaNaY on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for pRaNaY on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></center>
+
+### GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pranaypatel512&count_private=true&show_icons=true&include_all_commits=true" alt="Pranay's github stats" />
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypatel512&layout=compact&hide_title=1&card_width=300&show_icons=true" alt="Top language used in my repos" />
+  
+
+### Badges Board
+
+[![@pranaypatel's Holopin board](https://holopin.me/pranaypatel)](https://holopin.io/@pranaypatel)
