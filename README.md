@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=pranaypatel512&color=brightgreen&style=flat)
 
  <p align="center">
-    <img height="200px" width="200px" src="https://github.com/pranaypatel512/pranaypatel512/blob/master/social/pranay_photo.svg" >
+    <img height="200px" width="200px" src="https://github.com/dhaval-android/dhaval-android/blob/main/PictureMine/newpic.png" >
   <br>  <br>
   <b><i>Try it out, improve it, practice more and have fun! ✌️ </i></b> 
  </p>
