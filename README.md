@@ -4,6 +4,7 @@
 
  <p align="center">
     <img height="300px" width="300px" src="https://github.com/dhaval-android/dhaval-android/blob/main/PictureMine/newpic.png" >
+ 
   <br>  <br>
   <b><i>Best way to learn more and more just just Try to Teach some which you Don't know... ✌️ </i></b> 
  </p>
@@ -24,5 +25,9 @@
 
 
 ### Social
+* Facebook
+* LinkedIn
+* Stackoverflow
+* Twitter
 
 
